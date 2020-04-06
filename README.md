@@ -1,6 +1,6 @@
 # Be The Hero
 
-A project developed on *Semana OmniStack 11* where it has a focus to help non-governmental organizations to share their needs.
+A project developed on *Semana OmniStack 11* (see my certificate [here](/certificate.pdf)) where it has a focus to help non-governmental organizations to share their needs.
 
 The project consists of three applications:
 
